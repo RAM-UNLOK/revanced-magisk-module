@@ -28,7 +28,6 @@ excluded-patches = "'Amoled' 'Custom branding icon YouTube Music' 'Custom brandi
 [RVY]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
-excluded-patches = "'Theme' 'Spoof app version' 'Enable tablet layout' 'SponsorBlock' 'Client spoof' 'GmsCore support' 'Spoof device dimensions'"
 
 [RVYM]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
