@@ -1,6 +1,6 @@
 Inotia00-RVYM: 6.33.52  
-Inotia00-RVY: 19.02.39  
 RVY: 19.09.37  
+Inotia00-RVY: 19.02.39  
 RVYM: 6.46.52  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
