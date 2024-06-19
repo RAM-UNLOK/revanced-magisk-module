@@ -1,7 +1,7 @@
 Inotia00-RVYM: 7.05.52  
-Inotia00-RVY: 19.21.40  
 RVYM: 7.03.52  
 RVY: 19.16.39  
+Inotia00-RVY: 19.21.40  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
