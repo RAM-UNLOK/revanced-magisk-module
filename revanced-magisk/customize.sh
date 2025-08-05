@@ -181,5 +181,5 @@ if [ "$KSU" ] && [ -d "/data/adb/modules/zygisk-assistant" ]; then
 fi
 
 ui_print "* Done"
-ui_print "  by j-hc (github.com/j-hc)"
-ui_print " "
+ui_print " by j-hc (github.com/j-hc)"
+ui_print " Updates By RAM-UNLOK (github.com/RAM-UNLOK)"
