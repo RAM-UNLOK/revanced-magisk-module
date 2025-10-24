@@ -1,6 +1,6 @@
 {
-  "version": "v7.50.0.818774663 (patches 5.43.1)",
-  "versionCode": 24,
-  "zipUrl": "https://github.com/RAM-UNLOK/revanced-magisk-module/releases/download/24/googlephotos-revanced-magisk-v7.50.0.818774663-arm64-v8a.zip",
+  "version": "v7.51.0.822217012 (patches 5.44.0)",
+  "versionCode": 25,
+  "zipUrl": "https://github.com/RAM-UNLOK/revanced-magisk-module/releases/download/25/googlephotos-revanced-magisk-v7.51.0.822217012-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/RAM-UNLOK/revanced-magisk-module/update/build.md"
 }
