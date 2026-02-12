@@ -1,6 +1,6 @@
 {
   "version": "v20.14.43 (patches 5.48.0.rvp)",
-  "versionCode": 48,
-  "zipUrl": "https://github.com/RAM-UNLOK/revanced-magisk-module/releases/download/48/youtube-revanced-magisk-v20.14.43-arm64-v8a.zip",
+  "versionCode": 49,
+  "zipUrl": "https://github.com/RAM-UNLOK/revanced-magisk-module/releases/download/49/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/RAM-UNLOK/revanced-magisk-module/update/build.md"
 }
