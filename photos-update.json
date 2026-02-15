@@ -1,6 +1,6 @@
 {
-  "version": "v7.61.0.860908034 (patches 5.48.0.rvp)",
-  "versionCode": 49,
-  "zipUrl": "https://github.com/RAM-UNLOK/revanced-magisk-module/releases/download/49/photos-revanced-magisk-v7.61.0.860908034-arm64-v8a.zip",
+  "version": "v7.63.0.869312946 (patches 5.48.0.rvp)",
+  "versionCode": 50,
+  "zipUrl": "https://github.com/RAM-UNLOK/revanced-magisk-module/releases/download/50/photos-revanced-magisk-v7.63.0.869312946-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/RAM-UNLOK/revanced-magisk-module/update/build.md"
 }
