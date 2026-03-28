@@ -6,48 +6,31 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[photos]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+[Photos-Morphe]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
+patches-source = "MorpheApp/morphe-patches"
+integrations-source = "MorpheApp/revanced-integrations"
+rv-brand = "MorpheApp ReVanced"
 arch = "arm64-v8a"
-build-mode = "both"
 included-patches = "'Enable DCIM folders backup control'"
 
-[Music]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+[Music-Morphe]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-build-mode = "both"
+patches-source = "MorpheApp/morphe-patches"
+integrations-source = "MorpheApp/revanced-integrations"
+rv-brand = "MorpheApp ReVanced"
 arch = "arm64-v8a"
-excluded-patches = "'Custom branding' 'Theme'"
-
-[YouTube]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 build-mode = "both"
-excluded-patches = "'Custom branding' 'Change header' 'Theme'"
 
 [YouTube-Morphe]
-app-name = "YouTube"
-patches-source = "MorpheApp/morphe-patches"
-cli-source = "MorpheApp/morphe-cli"
-rv-brand = "Morphe"
-build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-excluded-patches = "'Custom branding' 'Change header' 'Theme'"
-
-[Music-Morphe]
-app-name = "Music"
 patches-source = "MorpheApp/morphe-patches"
-cli-source = "MorpheApp/morphe-cli"
-rv-brand = "Morphe"
+integrations-source = "MorpheApp/revanced-integrations"
+rv-brand = "MorpheApp ReVanced"
 build-mode = "both"
-arch = "arm64-v8a"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-excluded-patches = "'Custom branding' 'Theme'"
