@@ -1,4 +1,4 @@
-Google-Photos: 7.80.0.929302933  
+Google-Photos: 7.81.0.932521513  
 Music-Morphe: 8.51.51  
 YouTube-Morphe: 20.51.39  
 
