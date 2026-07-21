@@ -183,4 +183,4 @@ cp -f "$MODPATH/module.prop" "$MODPATH/module.prop.orig"
 
 ui_print "* Done. No need to reboot."
 ui_print "  by j-hc (github.com/j-hc)"
-ui_print " "
+ui_print "  Updates For RAM-UNLOK (github.com/RAM-UNLOK)"
