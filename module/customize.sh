@@ -181,5 +181,5 @@ rm -rf "${MODPATH:?}/bin" "$MODPATH/stock/"
 cp -f "$MODPATH/module.prop" "$MODPATH/module.prop.orig"
 
 ui_print "* Done"
-ui_print "  by j-hc (github.com/j-hc)"
-ui_print " "
+ui_print " by j-hc (github.com/j-hc)"
+ui_print " Updates By RAM-UNLOK (github.com/RAM-UNLOK)"
