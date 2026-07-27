@@ -1,3 +1,4 @@
+Google-Photos: 7.85.0.952162352  
 Music-Morphe: 9.15.51  
 YouTube-Morphe: 21.04.223  
 
@@ -9,7 +10,7 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 Patches: MorpheApp/patches-1.37.0.mpp  
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.37.0)
 
-CLI: MorpheApp/morphe-desktop-1.12.0-all.jar    
+Patches: RookieEnough/patches-1.0.4.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.0.4)
 
-Skipped:  
-Patches: RookieEnough/patches-1.0.4.mpp    
+CLI: MorpheApp/morphe-desktop-1.12.0-all.jar    
