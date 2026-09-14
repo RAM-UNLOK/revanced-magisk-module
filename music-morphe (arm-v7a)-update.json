@@ -1,6 +1,6 @@
 {
-  "version": "v9.15.51 (patches 1.42.0.mpp)",
-  "versionCode": 102,
-  "zipUrl": "https://github.com/RAM-UNLOK/revanced-magisk-module/releases/download/102/music-morphe-module-v9.15.51-arm-v7a.zip",
+  "version": "v9.15.51 (patches 1.43.0.mpp)",
+  "versionCode": 104,
+  "zipUrl": "https://github.com/RAM-UNLOK/revanced-magisk-module/releases/download/104/music-morphe-module-v9.15.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/RAM-UNLOK/revanced-magisk-module/update/build.md"
 }
